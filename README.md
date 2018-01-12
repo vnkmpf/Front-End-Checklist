@@ -627,6 +627,12 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 
 > * 📖 [Using the aria-label attribute - MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
 
+### Skip navigation
+
+* [ ] **Skip navigation link** ![High][high_img] Add links to skip navigation
+
+> * 📖 [Skip navigation links- WebAIM]((https://webaim.org/techniques/skipnav/))
+
 ### Accessibility testing
 
 * [ ] **Accessibility standards testing:** ![High][high_img] Use the WAVE tool to test if your page respects the accessibility standards.
@@ -638,6 +644,8 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 * [ ] **Focus style:** ![High][high_img] If the focus is disabled, it is replaced by visible state in CSS.
 
 > * 📹 [Managing Focus - A11ycasts #22](https://www.youtube.com/watch?v=srLRSQg6Jgg&index=5&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+> * 📖 [Improving the Accessibility of 24 ways - CSS Tricks](https://css-tricks.com/improving-accessibility-24-ways/) Focus on upper case problems
+> * 📖 [Accesibility - Writing In All Capital Letters](https://www.tarleton.edu/cmstutorial/help/accessibility/all-caps.html) Focus on upper case problems /2
 
 **[⬆ back to top](#table-of-contents)**
 
